@@ -1,3 +1,8 @@
+# WIP for Pebbe Modular Smart Glasses APPS or PMSG !!! soon in your app store 
+Huge thanks to Eric Migicovsky for open-sourcing and sharing this amazing codebase. We’ll be using it as the foundation for the PMSG Smart Glasses app for both iOS and Android, and we’re committed to contributing improvements back to the open-source community.
+
+We’ve started porting this fork to align fully with the PMSG setup.
+
 # libpebble3
 
 libpebble3 is a kotlin multiplatform library for interacting with Pebble devices. It is designed to do everything that a Pebble/Core watch companion app needs to do, except for the UI and specific web services.
