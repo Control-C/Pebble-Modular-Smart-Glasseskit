@@ -3,6 +3,11 @@ Huge thanks to Eric Migicovsky for open-sourcing and sharing this amazing codeba
 
 We’ve started porting this fork to align fully with the PMSG setup.
 
+
+![PMSG Cool Glasses](https://github.com/Control-C/PMSG/blob/main/img/cool.png)
+
+
+
 # libpebble3
 
 libpebble3 is a kotlin multiplatform library for interacting with Pebble devices. It is designed to do everything that a Pebble/Core watch companion app needs to do, except for the UI and specific web services.
